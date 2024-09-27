@@ -1,0 +1,68 @@
+# Site
+name: 'Ziip'
+description: 'We deliver Byte Size News to you.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/favicon/favicon.ico'
+baseurl: '/'
+disqus: 'Ziip'
+email: 'news@tziip.com'
+mailchimp-list: ''
+linkedin: 'https://www.linkedin.com/company/ziipnews'
+instagram: 'https://instagram.com/ziipnews'
+facebook: 'https://facebook.com/ZiipNews'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    Ziip:
+      name:           Ziip
+      site:           https://tziip.com
+      avatar:         /assets/images/logo.png
+      bio:            "Hi, I am Ziip, the author of tziip.com. I hope you like it!"
+      email:          news@tziip.com
+      twitter:        https://twitter.com/
+
+    Admin:
+      name:           Admin
+      site:           tziip.com
+      avatar:         /assets/images/avatar.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          admin@tziip.com
+      twitter:        https://twitter.com/
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: Safwan
+      avatar: /assets/images/avatar.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

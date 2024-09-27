@@ -1,0 +1,59 @@
+{
+  "name": "Ziip",
+  "author": "The Ziip",
+  "short_name": "Ziip",
+  "description": "The Ziip is a High School-led Byte Size News Media.",
+  "start_url": "/index.html",
+  "background_color": "",
+  "theme_color": "#808080",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon/fav144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "manifest_version": 1,
+  "type": "WebApp",
+  "meta": {
+    "name": "The Ziip",
+    "author": "The Ziip",
+    "short_name": "Ziip",
+    "short_url": ".",
+    "background_color": "",
+    "theme_color": "#808080",
+    "display": "standalone",
+    "version": "1.0.0.01",
+    "minimum-overwolf-version": "tziip.com",
+    "minimum-gep-version": "tziip.com",
+    "description": "The Ziip is a High School-led Byte Size News Media.",
+    "dock_button_title": "Ziip",
+    "launcher_icon": "assets/favicon/favicon.ico",
+    "splash_image": "assets/favicon/logo.png",
+    "window_icon": "assets/favicon/logo.png"
+  },
+  "permissions": [
+    "Web"
+  ]
+}
