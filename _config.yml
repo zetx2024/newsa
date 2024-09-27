@@ -25,7 +25,7 @@ authors:
     Ziip:
       name:           Ziip
       site:           https://tziip.com
-      avatar:         /assets/images/logo.png
+      avatar:         https://tziip.com/assets/images/logo.png
       bio:            "Hi, I am Ziip, the author of tziip.com. I hope you like it!"
       email:          news@tziip.com
       twitter:        https://twitter.com/
@@ -33,7 +33,7 @@ authors:
     Admin:
       name:           Admin
       site:           tziip.com
-      avatar:         /assets/images/avatar.jpg
+      avatar:         https://tziip.com/assets/images/avatar.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          admin@tziip.com
       twitter:        https://twitter.com/
@@ -47,7 +47,7 @@ defaults:
     values:
       layout: post
       author: Safwan
-      avatar: /assets/images/avatar.jpg
+      avatar: https://tziip.com/assets/images/avatar.jpg
       
   # all pages
   - scope:
