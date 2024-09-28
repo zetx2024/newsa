@@ -4,7 +4,7 @@ title:  "Gold won by all-female robotics team from Bangladesh in the WSEEC 2024"
 author: Ziip
 categories: [awards ]
 image: postimg/28-09-2024-codeblock-team-wseec.png
-tags: [awards, youth, girls]
+tags: [awards, youth, girls, sticky]
 ---
 
 Bangladesh's all-female robots team earned the gold medal in the 2024 World Science, Environment, and Engineering Competition (WSEEC) in Jakarta, Indonesia, yesterday (19 May, 2024).
