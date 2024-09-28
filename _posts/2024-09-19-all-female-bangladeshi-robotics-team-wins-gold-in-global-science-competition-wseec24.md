@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gold won by an all-female robotics team from Bangladesh in the WSEEC 2024"
+title:  "Gold won by all-female robotics team from Bangladesh in the WSEEC 2024"
 author: Ziip
 categories: [awards ]
 image: postimg/28-09-2024-codeblock-team-wseec.png
