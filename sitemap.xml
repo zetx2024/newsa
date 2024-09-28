@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.org/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.org/schemas/sitemap-image/1.1 http://www.google.org/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+      <loc>https://tziip.com</loc>
+      <lastmod>2024-09-28T17:01:57+00:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>https://tziip.com/contact.html</loc>
+      <lastmod>2024-09-28T17:01:57+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://tziip.com/authors-list.html</loc>
+      <lastmod>2024-09-28T17:01:57+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://tziip.com/hire.html</loc>
+      <lastmod>2024-09-28T17:01:57+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://tziip.com/all-female-bangladeshi-robotics-team-wins-gold-in-global-science-competition-wseec24</loc>
+      <lastmod>2024-09-28T17:01:57+00:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.80</priority>
+    </url>
+</urlset>
