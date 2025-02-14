@@ -31,27 +31,37 @@ As a content writer, you will contribute to various sections of our journal, suc
 - **Women Empowerment**
 - **Interesting and Unique Topics**
 
+### 3. **Social Media Managers**  
+Help us expand our online presence by managing and creating engaging content for our social media platforms, including:
+- **Facebook**
+- **Instagram**
+- **LinkedIn**  
+You’ll be responsible for developing strategies to engage our audience and increase followers, while promoting our latest articles and updates.
+
 ## What You'll Learn
 
 - **Journalism 101** – Learn the basics of writing articles, conducting interviews, and researching topics.
 - **Creative Content Creation** – Whether you’re writing a lifestyle article or a hard-hitting financial report, you’ll gain hands-on experience.
+- **Social Media Strategy** – Gain experience in managing and growing social media accounts, building an audience, and creating engaging content.
 - **Team Collaboration** – Work with experienced writers, editors, and designers to produce high-quality content.
 
 ## How to Apply
 
-If you’re ready to take the next step in your journalism journey, please send your **CV** and a brief introduction about why you’re interested in journalism to **hr@tziip.com**. We’ll review your application and get back to you as soon as possible!
+If you’re ready to take the next step in your journalism or social media career, please send your **CV** and a brief introduction about why you’re interested in journalism or social media management to **hr@tziip.com**. We’ll review your application and get back to you as soon as possible!
 
 Alternatively, you can apply through the form below:
 
 [**Apply Now**](https://forms.gle/irSxivQ9ND3tA7wm7)
 
+**Application Deadline:** February 28, 2025
+
 ## Why Join Us?
 
 - **Real-world experience** – You’ll work on actual content that will be published.
-- **A chance to grow** – Learn and improve your writing and creative skills.
+- **A chance to grow** – Learn and improve your writing, creative, and social media skills.
 - **Professional recognition** – Gain recognition for your work at The ZiiP after completing your internship.
 
-**Don’t miss out on this opportunity to kickstart your journalism career!**
+**Don’t miss out on this opportunity to kickstart your journalism or social media career!**
 
 ---
 
