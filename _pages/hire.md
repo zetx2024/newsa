@@ -3,90 +3,58 @@ title: "We Are Hiring Now!"
 permalink: "/hire.html"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f8f9fa;
-      margin-top: 50px;
-    }
-    h1 {
-      font-size: 2.5rem;
-      color: #333;
-    }
-    .card {
-      background-color: white;
-      border: 1px solid #ddd;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-      margin-bottom: 30px;
-    }
-    .card-body {
-      padding: 20px;
-    }
-    .btn-success {
-      background-color: #28a745;
-      border-color: #28a745;
-      border-radius: 5px;
-      font-size: 1.1rem;
-      padding: 10px 20px;
-    }
-    .btn-success:hover {
-      background-color: #218838;
-      border-color: #1e7e34;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    ul li {
-      margin-bottom: 10px;
-    }
-    .category-header {
-      font-size: 1.4rem;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
+# We Are Hiring Now!
 
-  <div class="container text-center">
-    <h1 class="display-4">We're Hiring Now!</h1>
-    <div class="card">
-      <div class="card-body">
-        <p class="lead mb-4">Are you a high school student eager to learn about journalism? Join us at The ZiiP! We offer a fantastic opportunity for hands-on experience where you will learn everything about writing articles, journalism basics, and much more!</p>
+**Join our Internship Program at The ZiiP!**  
+We are looking for passionate students in **Grades 7-12** who are eager to learn about journalism and gain hands-on experience in the field. If you're curious about writing, media, and reporting, this is a perfect opportunity to get started!
 
-        <h3 class="category-header">Categories:</h3>
-        <ul>
-          <li><strong>Graphics Designer (Mostly Canva)</strong></li>
-          <li><strong>Content Writer:</strong>
-            <ul>
-              <li>Economics Report</li>
-              <li>Financial Report</li>
-              <li>Opportunities</li>
-              <li>Achievements</li>
-              <li>Lifestyles (Catchy or funny articles)</li>
-              <li>Women Empowerment</li>
-              <li>Interesting Anything</li>
-            </ul>
-          </li>
-        </ul>
+## About The Program
 
-        <p class="mb-4">You’ll start by learning Journalism 101, and after six months of voluntary work, you’ll earn an internship recognition! Our goal is to teach you, help you grow, and succeed together.</p>
+At The ZiiP, we will provide you with a **comprehensive learning experience** to teach you the fundamentals of journalism, including writing techniques, research methods, and article formatting. Over a **6-month voluntary internship period**, you will get the chance to contribute to our publications and develop your skills.
 
-        <p class="mb-4">Ready to start your journalism journey? Send us your CV at <a href="mailto:hr@tziip.com">hr@tziip.com</a>, and we will get back to you as soon as possible!</p>
+By the end of your internship, you will receive **recognition** for your hard work, and most importantly, you will gain valuable experience for your future career.
 
-        <button class="btn btn-success"><a href="https://forms.gle/irSxivQ9ND3tA7wm7" style="color: white;">Apply Now</a></button>
-      </div>
-    </div>
-  </div>
+## Internship Positions Available
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+We are hiring for the following positions:
+
+### 1. **Graphics Designer**  
+You'll work with design tools like **Canva** to create visuals for articles, infographics, and other media content.
+
+### 2. **Content Writers**  
+As a content writer, you will contribute to various sections of our journal, such as:
+- **Economics Report**
+- **Financial Report**
+- **Opportunities**
+- **Achievements**
+- **Lifestyles** (including engaging, fun, or light-hearted articles)
+- **Women Empowerment**
+- **Interesting and Unique Topics**
+
+## What You'll Learn
+
+- **Journalism 101** – Learn the basics of writing articles, conducting interviews, and researching topics.
+- **Creative Content Creation** – Whether you’re writing a lifestyle article or a hard-hitting financial report, you’ll gain hands-on experience.
+- **Team Collaboration** – Work with experienced writers, editors, and designers to produce high-quality content.
+
+## How to Apply
+
+If you’re ready to take the next step in your journalism journey, please send your **CV** and a brief introduction about why you’re interested in journalism to **hr@tziip.com**. We’ll review your application and get back to you as soon as possible!
+
+Alternatively, you can apply through the form below:
+
+[**Apply Now**](https://forms.gle/irSxivQ9ND3tA7wm7)
+
+## Why Join Us?
+
+- **Real-world experience** – You’ll work on actual content that will be published.
+- **A chance to grow** – Learn and improve your writing and creative skills.
+- **Professional recognition** – Gain recognition for your work at The ZiiP after completing your internship.
+
+**Don’t miss out on this opportunity to kickstart your journalism career!**
+
+---
+
+**Contact Us**  
+For any inquiries, please reach us at:  
+📧 **hr@tziip.com**
