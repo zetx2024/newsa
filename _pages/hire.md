@@ -52,7 +52,7 @@ If you’re ready to take the next step in your journalism or social media caree
 
 you can apply through the form below:
 
-[**Apply Now**](https://forms.gle/irSxivQ9ND3tA7wm7)
+[**Apply Now**](https://forms.gle/z1sBSNJKoGX4PNgy6)
 
 **Application Deadline:** February 28, 2025
 
