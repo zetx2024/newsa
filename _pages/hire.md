@@ -30,6 +30,7 @@ As a content writer, you will contribute to various sections of our journal, suc
 - **Lifestyles** (including engaging, fun, or light-hearted articles)
 - **Women Empowerment**
 - **Interesting and Unique Topics**
+- **Sports**
 
 ### 3. **Social Media Managers**  
 Help us expand our online presence by managing and creating engaging content for our social media platforms, including:
@@ -47,9 +48,9 @@ You’ll be responsible for developing strategies to engage our audience and inc
 
 ## How to Apply
 
-If you’re ready to take the next step in your journalism or social media career, please send your **CV** and a brief introduction about why you’re interested in journalism or social media management to **hr@tziip.com**. We’ll review your application and get back to you as soon as possible!
+If you’re ready to take the next step in your journalism or social media career, please apply. We’ll review your application and get back to you as soon as possible!
 
-Alternatively, you can apply through the form below:
+you can apply through the form below:
 
 [**Apply Now**](https://forms.gle/irSxivQ9ND3tA7wm7)
 
